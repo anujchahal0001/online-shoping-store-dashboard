@@ -3,6 +3,9 @@ it is a dashboard created using tools in advance excel such as slicier, pivot ta
 
 PROJECT ONLINE STROE
 
+This project leverage excel's powerful features and integrating data from raw and unclean data to make it usable and readable. I work to make dashboard scalable, accessable and efficient online store model to bring out data insights and to enhance approach towards data.
+
+
 ![Screenshot (16)](https://github.com/anujchahal0001/online-shoping-store-dashboard/assets/135965570/ba57476c-3026-4d16-b7c2-97de460fb66f)
 ![Screenshot (5)](https://github.com/anujchahal0001/online-shoping-store-dashboard/assets/135965570/def8a6d2-4766-4b0d-8524-f64109a4945b)
 ![Screenshot (8)](https://github.com/anujchahal0001/online-shoping-store-dashboard/assets/135965570/5a87722a-97bc-4a00-9aa0-cb395e6fee69)
